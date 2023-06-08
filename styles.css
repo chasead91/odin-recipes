@@ -1,15 +1,15 @@
 body {
-    background-color: black;
-    color: #cad2c5;
+    background-color: white ;
+    color: #2f3e46;
 }
 
 h1 {
     font-weight: bold;
-    color: #52796f;
+    color: #354f52;
 }
 
 h2 {
-    color: #354f52;
+    color: #52796f;
     font-style: italic;
 }
 
@@ -23,16 +23,27 @@ h2 {
     height: 300px;
 }
 
+#hotdog {
+    width: 400px;
+    height: 300px;
+}
+
+#grilled-cheese {
+
+    width: 400px;
+    height: 300px;
+}
+
 li {
-    color: #84a98c
+    color: #2f3e46;
 }
 
 a {
-    color: #cad2c5;
+    color: #2f3e46;
     text-decoration: none;
 }
 
 a:hover {
-    color:#84a98c;
+    color:#52796f;
     text-decoration: underline;
 }
