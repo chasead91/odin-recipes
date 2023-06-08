@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: #cad2c5;
+}
+
+h1 {
+    font-weight: bold;
+    color: #52796f;
+}
+
+h2 {
+    color: #354f52;
+    font-style: italic;
+}
+
+#chef-jacket {
+    width: 180px;
+    Height: 200px;
+}
+
+#cheeseburger {
+    width: 400px;
+    height: 300px;
+}
+
+li {
+    color: #84a98c
+}
+
+a {
+    color: #cad2c5;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#84a98c;
+    text-decoration: underline;
+}
