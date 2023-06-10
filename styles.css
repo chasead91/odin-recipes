@@ -17,6 +17,8 @@ h2 {
 #chef-jacket {
     width: 180px;
     Height: 200px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 #cheeseburger {
@@ -35,13 +37,26 @@ h2 {
     height: 300px;
 }
 
+.main-menu-block {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.main-menu-block a {
+    display: block;
+}
+
+.site-title {
+    padding-left: 90px;
+}
+
 li {
     color: #2f3e46;
 }
 
 a {
     color: #2f3e46;
-    text-decoration: none;
+    text-decoration: dashed underline 1px;
 }
 
 a:hover {
